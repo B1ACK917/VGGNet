@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 import time
-from neural_network.VGG import VGG
+import VGG
 import os
 
 
